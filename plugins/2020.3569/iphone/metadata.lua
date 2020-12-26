@@ -3,7 +3,7 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDOpenXAdapter', },
+		staticLibs = { },
 		frameworks = { },
 		frameworksOptional = {},
 	},
